@@ -18248,13 +18248,13 @@ const _A = (i, l) =>
     Sc(i) ? new UA(l) : new zA(l, { allowProjection: i !== et.Fragment }),
   BA = pS({ ...nb, ...AA, ...fA, ...EA }, _A),
   $y = U1(BA),
-  NA = "./assets/1-VLo-jrvR.png",
-  LA = "./assets/2-Da62pe6x.png",
-  HA = "./assets/3-Bn5osJ9n.png",
-  jA = "./assets/4-C5vyduhT.png",
-  wA = "./assets/5-D0D0LIXp.png",
-  qA = "./assets/6-D8Znk9JH.png",
-  YA = "./assets/7-4A9KkHtN.png";
+  NA = "/assets/1-VLo-jrvR.png",
+  LA = "/assets/2-Da62pe6x.png",
+  HA = "/assets/3-Bn5osJ9n.png",
+  jA = "/assets/4-C5vyduhT.png",
+  wA = "/assets/5-D0D0LIXp.png",
+  qA = "/assets/6-D8Znk9JH.png",
+  YA = "/assets/7-4A9KkHtN.png";
 function GA() {
   const [i, l] = et.useState(0),
     u = [
