@@ -69,7 +69,7 @@ export default function LizaHealingStory() {
       </div>
       <motion.p
         key={stages[stage].text}
-        style={{fontSize: 32, maxWidth: 600, textAlign: "center"}}
+        style={{fontSize: 26, maxWidth: 400, textAlign: "center", color: "black"}}
         initial={{ opacity: 0 }}
         animate={{ opacity: 1 }}
         transition={{ duration: 1 }}
