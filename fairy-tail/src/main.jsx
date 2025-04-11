@@ -4,9 +4,10 @@ import './index.css'
 import LizaHealingStory from './LizaHealingStory.jsx'
 import App from './App.jsx'
 import LizaHappy from './LizaHappy.jsx'
+import LizaAlmostDog from './LizaAlmostDog.jsx'
 
 createRoot(document.getElementById('root')).render(
   <StrictMode>
-    <LizaHappy />
+    <LizaAlmostDog />
   </StrictMode>,
 )
